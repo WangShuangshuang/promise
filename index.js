@@ -1,5 +1,5 @@
 /**
- * Created by wangweitao04 on 2019/7/1.
+ * Created on 2019/7/1.
  */
 const demo = {
     getName: function(){
