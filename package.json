@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/WangShuangshuang/promise/issues"
   },
-  "homepage": "https://github.com/WangShuangshuang/promise#readme"
+  "homepage": "https://github.com/WangShuangshuang/promise#readme",
+  "devDependencies": {
+    "husky": "^4.3.6"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run test"
+    }
+  }
 }
