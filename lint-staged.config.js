@@ -1,6 +1,6 @@
 module.exports = {
-  "*.js": [
-    "eslint",
-    "git add"
+  'test.js': [
+    'eslint',
+    'git add'
   ]
 }
